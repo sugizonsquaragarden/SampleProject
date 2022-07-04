@@ -1,0 +1,3 @@
+hello world 
+miyu ="Ç©ÇÌÇ¢Ç¢"
+miyu ="åãç•"
